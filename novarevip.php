@@ -1,13 +1,10 @@
 <?php
 error_reporting(0);
-// if(!isset($argv[1]) AND !isset($argv[2])){
-// 	echo "usage : novarevip.php [list domain] [saved file]\n";
-// }
 if(isset($argv[1]) AND isset($argv[2])){
-	echo "################################\n";
+	echo "###################################\n";
 	echo "Nova Mass Reverse IP\n";
-	echo "Thanks to : Herman & IndoXploit\n";
-	echo "################################\n\n";
+	echo "Thanks to : Codelatte & IndoXploit\n";
+	echo "###################################\n\n";
 	sleep(1);
 	echo "List Domain :\n";
 	echo file_get_contents($argv[1])."\n\n";
