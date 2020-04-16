@@ -4,4 +4,5 @@
 <ul>
   <li>Nova Mass Reverse IP</li>
   <li>Nova Mass Check IP by URL</li>
+  <li>Nova Line Cutter</li>
 </ul>
