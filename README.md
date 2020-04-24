@@ -5,4 +5,5 @@
   <li>Nova Mass Reverse IP</li>
   <li>Nova Mass Check IP by URL</li>
   <li>Nova Line Cutter</li>
+  <li>Nova Mass String is Domain checker</li>
 </ul>
