@@ -6,6 +6,9 @@ read -p "File : " filenya
 if [ ! -f $filenya ]; then
 	echo "[-] File $list Not Exist!"
 	exit 1
+else
+	itung=$(wc -l $filenya)
+	echo -e "Total Lines : ${itung} \n"
 fi
 read -p "From line : " dari
 if [ -z $dari ]; then
