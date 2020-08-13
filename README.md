@@ -7,4 +7,5 @@
   <li>Nova Line Cutter</li>
   <li>Nova Mass String is Domain checker</li>
   <li>Nova Mass Domain Live checker</li>
+  <li>Nova Monitor Device</li>
 </ul>
